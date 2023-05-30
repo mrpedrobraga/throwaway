@@ -8,6 +8,16 @@
 
 config_version=4
 
+_global_script_classes=[ {
+"base": "Control",
+"class": "SlerpTweener2",
+"language": "GDScript",
+"path": "res://Control.gd"
+} ]
+_global_script_class_icons={
+"SlerpTweener2": ""
+}
+
 [application]
 
 config/name="Throwaway"
