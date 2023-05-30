@@ -28,8 +28,8 @@ config/icon="res://icon.png"
 
 window/size/width=64
 window/size/height=64
-window/size/test_width=128
-window/size/test_height=128
+window/size/test_width=512
+window/size/test_height=512
 window/stretch/mode="viewport"
 window/stretch/aspect="keep"
 
